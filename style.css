@@ -157,21 +157,27 @@
 }
 
 /* Completed */
-#task-list-complete .task-list__label {
+#task-list-complete 
+.task-list__label {
   text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
-.task-list .task-list__input {
+.task-list 
+.task-list__input {
   display: none;
 }
 
-.task-list .editMode .task-list__input {
+.task-list 
+.editMode 
+.task-list__input {
   display: inline;
   width: 224px;
 }
 
-.task-list .editMode .task-list__label {
+.task-list 
+.editMode 
+.task-list__label {
   display: none;
 }
