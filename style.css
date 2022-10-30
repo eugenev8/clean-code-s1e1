@@ -37,13 +37,13 @@
 .task-list__input {
   width: 56%;
   display: inline;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-list__label {
   width: 56%;
   display: inline;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-menu__wrapper {
@@ -143,7 +143,7 @@
 }
 
 .task-list__input {
-  width: 226px
+  width: 226px;
 }
 
 .task-list__button-delete-image {
@@ -164,12 +164,12 @@
 
 /* Edit Task */
 .task-list .task-list__input {
-  display: none
+  display: none;
 }
 
 .task-list .editMode .task-list__input {
   display: inline;
-  width: 224px
+  width: 224px;
 }
 
 .task-list .editMode .task-list__label {
